@@ -11,5 +11,3 @@ type Brain struct {
 }
 ```
 
-
-[LinkedIn](https://www.linkedin.com/in/christopher-gjelten-90b48314a/)
